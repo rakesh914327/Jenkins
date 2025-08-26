@@ -13,5 +13,11 @@ public class OrgTest {
 		System.out.println("execute  modify Orgtest");
 	
 	}
+	@Test
+	public void modifyTest() {
+		System.out.println("execute  modify Orgtest");
+	
+	}
 
 }
+
